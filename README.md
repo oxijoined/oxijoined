@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 
-бебра
+![Sony](https://img.shields.io/static/v1?style=for-the-badge&message=Sony&color=222222&logo=Sony&logoColor=FFFFFF&label=) fan
+
 
 ## 🏅 Achievements
 
