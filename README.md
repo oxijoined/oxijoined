@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 ### ![PlayStation](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation&color=003791&logo=PlayStation&logoColor=FFFFFF&label=)  Fan,  
-![Xbox](https://img.shields.io/static/v1?style=for-the-badge&message=Xbox&color=107C10&logo=Xbox&logoColor=FFFFFF&label=) Hater
+### ![Xbox](https://img.shields.io/static/v1?style=for-the-badge&message=Xbox&color=107C10&logo=Xbox&logoColor=FFFFFF&label=) Hater
 
 
 ## 🏅 Achievements
