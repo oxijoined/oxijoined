@@ -8,7 +8,7 @@
 
 ## 🏅 Achievements
 
--   -
+- 
 
 ## 🛠️ Skills
 
