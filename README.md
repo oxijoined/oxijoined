@@ -4,9 +4,6 @@
 
 
 
-## 🏅 Achievements
-<img src="https://wakatime.com/badge/user/c07e38f1-405a-4ba1-b6e5-1c60ba93a8fd.svg">
-
 
 ## 🛠️ Skills
 
