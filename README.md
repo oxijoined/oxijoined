@@ -31,10 +31,9 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-### Testing
+## 🏅 Achievements
 
-
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/c07e38f1-405a-4ba1-b6e5-1c60ba93a8fd.svg)](https://wakatime.com/@c07e38f1-405a-4ba1-b6e5-1c60ba93a8fd)
 
 ## 🖥️ Workspace Setup
 
