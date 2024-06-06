@@ -20,7 +20,7 @@
 
 
 ### Block-Chain Development
-[![Internet Computer](https://img.shields.io/badge/InternetComputer-grey?logo=internet%20computer&style=for-the-badge)]
+![Internet Computer](https://img.shields.io/badge/InternetComputer-grey?logo=internet%20computer&style=for-the-badge)
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
